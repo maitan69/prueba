@@ -1,0 +1,1 @@
+text = "Guard's Room";

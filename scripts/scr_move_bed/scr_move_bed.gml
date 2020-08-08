@@ -1,0 +1,5 @@
+//MOVE BED TOWARDS RIGHT
+oBed.x = 96;
+
+//PREVENT FROM INTERACTING TO BED ANYMORE
+oBed.canInteract = false;
